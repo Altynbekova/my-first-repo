@@ -25,5 +25,6 @@ select * from Barbers b join Positions p
 on b.PositionId=p.PositionId
 where p.Name='senior';
 
+sdfjshdgfjsdhgf
 
 
